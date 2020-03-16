@@ -1,0 +1,10 @@
+Id: 1
+Nume: adi
+CNP: 544
+Medie Bac: 10.0
+Nota proba bac pt calculare medie admitere: 10.0
+Disciplina admitere: eee
+Nota admitere: 10.0
+Medie admitere:10.0
+Repartizare sala: 222
+Status: admis; 
